@@ -14,11 +14,6 @@ int main()
 }
 
 
-
-
-
-
-
 void pyramidNum(int n)
 {
 
